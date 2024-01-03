@@ -11,10 +11,10 @@ description: "Efficient navigation is a critical aspect of user experience in an
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "React"
 tags:
   - "Photos"
-  - "Game"
+  - "React"
   - "HTML"
   - "Python"
   - "New"
