@@ -1,6 +1,6 @@
 ---
 title: "Optimizing Your React Application Performance with Lazy Loading"
-date: 2024-01-02T10:07:47+06:00
+date: 2023-02-05T10:07:47+06:00
 draft: false
 
 # post thumb

@@ -1,6 +1,6 @@
 ---
 title: "Seamless Integration: Tips for Syncing React with UI Design Libraries"
-date: 2024-01-02T10:07:47+06:00
+date: 2023-04-02T10:07:47+06:00
 draft: false
 
 # post thumb

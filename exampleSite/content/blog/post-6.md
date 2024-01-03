@@ -1,6 +1,6 @@
 ---
 title: "Accessible Design in React: Crafting Experiences for Everyone"
-date: 2024-01-02T10:07:47+06:00
+date: 2023-06-07T10:07:47+06:00
 draft: false
 
 # post thumb

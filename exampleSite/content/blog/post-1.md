@@ -1,6 +1,6 @@
 ---
 title: "Mastering the Art of Animations in React: A Comprehensive Guide"
-date: 2024-01-02T10:07:47+06:00
+date: 2022-01-02T10:07:47+06:00
 draft: false
 
 # post thumb

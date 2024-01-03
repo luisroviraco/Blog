@@ -1,6 +1,6 @@
 ---
 title: "React Hooks: Best Practices and Patterns for Efficient Development"
-date: 2024-01-02T10:07:47+06:00
+date: 2023-05-12T10:07:47+06:00
 draft: false
 
 # post thumb
