@@ -11,7 +11,7 @@ description: "React Hooks revolutionized state management and lifecycle handling
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "React"
 tags:
   - "Photos"
   - "HTML"
