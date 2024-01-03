@@ -11,10 +11,10 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "React"
 tags:
   - "Photos"
-  - "Game"
+  - "React"
   - "HTML"
   - "Python"
   - "New"

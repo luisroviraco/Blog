@@ -11,9 +11,9 @@ description: "The fusion of React and augmented reality (AR) opens up exciting p
 
 # taxonomies
 categories: 
-  - "Programming Language"
+  - "React"
 tags:
-  - "Game"
+  - "React"
   - "HTML"
   - "Python"
   - "New"

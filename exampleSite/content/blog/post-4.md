@@ -14,7 +14,7 @@ categories:
   - "React"
 tags:
   - "Photos"
-  - "Game"
+  - "React"
   - "HTML"
   - "Python"
   - "New"

@@ -11,10 +11,10 @@ description: "User interfaces play a pivotal role in the success of any web appl
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "React"
 tags:
   - "Photos"
-  - "Game"
+  - "React"
   - "HTML"
   - "Python"
   - "New"
